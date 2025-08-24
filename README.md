@@ -1,1 +1,1 @@
-# Q-A-Chatbot-with-OpenAI
+# Q&A-Chatbot-with-OpenAI
